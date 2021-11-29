@@ -2,7 +2,7 @@
 
 The model for motility detection is based on the Matterport implementation of Mask R-CNN ([https://github.com/matterport/Mask_RCNN]()). To set up the `python3.7` environment it is necessary to install the packages listed in `requirements.txt` with the specified versions.
 
-For using the repository for motility detection you will require to download the model along with the motility videos from [https://owncloud.cesnet.cz/index.php/s/HHLQ6s42UcowMHo](). 
+For using the repository for motility detection you will require to download the model along with the motility videos from [https://doi.org/10.5281/zenodo.5734143](). 
 
 In case you want to re-train the model you also have to download the annotated images described in the below part `Image annotation`.
 
